@@ -1,0 +1,11 @@
+{
+  "PluginActive": "true",
+  "PluginAuthor": "SeleDreams",
+  "PluginType": "Startup",
+  "PluginAssemblyV5": "netframework4.6/WaveformColor.dll",
+  "PluginAssemblyV6": "net6.0-windows/WaveformColor.dll",
+  "PluginName": "WaveformColor",
+  "PluginVersion": "1.0.0",
+  "PluginNamespace": "WaveformColor",
+  "PluginClass": "WaveformColor"
+}
