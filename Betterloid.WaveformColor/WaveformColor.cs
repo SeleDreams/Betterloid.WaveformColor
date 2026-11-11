@@ -3,7 +3,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System;
 using System.Windows.Media;
-#if VOCALOID6
+#if VOCALOID6 || VOCALOID7
 using Yamaha.VOCALOID;
 using Yamaha.VOCALOID.MusicalEditor;
 using Yamaha.VOCALOID.VSM;

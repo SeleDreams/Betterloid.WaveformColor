@@ -4,6 +4,7 @@
   "PluginType": "Startup",
   "PluginAssemblyV5": "netframework4.6/WaveformColor.dll",
   "PluginAssemblyV6": "net8.0-windows/WaveformColor.dll",
+  "PluginAssemblyV7": "net10.0-windows/WaveformColor.dll",
   "PluginName": "WaveformColor",
   "PluginVersion": "1.0.0",
   "PluginNamespace": "WaveformColor",
